@@ -6,6 +6,11 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
+theme: jekyll-theme-minimal
+show_downloads: false
+google_analytics: UA-57531313-1
+logo: ./hamel.jpg
+
 title: Data Interviews Decoded
 description: An easy to use blogging platform with support for Jupyter Notebooks.
 github_username: kennedykwangari
