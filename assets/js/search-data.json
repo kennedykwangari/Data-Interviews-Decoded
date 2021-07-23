@@ -51,6 +51,22 @@
   
 
   
+      ,"page4": {
+          "title": "Interview Guides",
+          "content": "",
+          "url": "https://kennedykwangari.github.io/Data-Interviews-Decoded/interviewguides/",
+          "relUrl": "/interviewguides/",
+          "date": ""
+      }
+      
+  
+
+  
+  
+
+  
+
+  
   
 
   
@@ -59,18 +75,13 @@
   
 
   
-
-  
   
 
   
   
 
   
-  
-
-  
-      ,"page11": {
+      ,"page12": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://kennedykwangari.github.io/Data-Interviews-Decoded/robots.txt",
