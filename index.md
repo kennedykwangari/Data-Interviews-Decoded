@@ -10,4 +10,4 @@ search_exclude: true
   </figure>
 </center>
 
-#### Welcome to Data Interviews Decoded
+## Welcome to Data Interviews Decoded
