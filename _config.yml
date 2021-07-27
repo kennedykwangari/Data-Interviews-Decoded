@@ -1,10 +1,9 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog.
-#
-# If you need help with YAML syntax, here are some quick references for you: 
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
+theme: jekyll-theme-minimal
+title: Hamel Husain
+description: A collection of technical blogs and talks on machine learning and data science.
+show_downloads: false
+google_analytics: UA-57531313-2
+logo: ./hamel.jpg
 
 
 title: Data Interviews Decoded
