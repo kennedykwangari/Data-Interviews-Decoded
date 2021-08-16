@@ -87,8 +87,6 @@
   
 
   
-
-  
   
 
   
@@ -101,7 +99,7 @@
   
 
   
-      ,"page13": {
+      ,"page12": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://kennedykwangari.github.io/Data-Interviews-Decoded/robots.txt",
