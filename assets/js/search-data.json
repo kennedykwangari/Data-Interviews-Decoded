@@ -50,6 +50,17 @@
 
   
       ,"page3": {
+          "title": "Coaching",
+          "content": "",
+          "url": "https://kennedykwangari.github.io/Data-Interviews-Decoded/Coaching/",
+          "relUrl": "/Coaching/",
+          "date": ""
+      }
+      
+  
+
+  
+      ,"page4": {
           "title": "Workshops/ Webinars/ Events",
           "content": "",
           "url": "https://kennedykwangari.github.io/Data-Interviews-Decoded/Workshops/%20Webinars/%20Events/",
@@ -62,7 +73,7 @@
   
 
   
-      ,"page5": {
+      ,"page6": {
           "title": "Interview Guides",
           "content": "",
           "url": "https://kennedykwangari.github.io/Data-Interviews-Decoded/interviewguides/",
@@ -92,7 +103,7 @@
   
 
   
-      ,"page13": {
+      ,"page14": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://kennedykwangari.github.io/Data-Interviews-Decoded/robots.txt",
