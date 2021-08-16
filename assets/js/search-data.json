@@ -49,9 +49,20 @@
   
 
   
+      ,"page3": {
+          "title": "Workshops/ Webinars/ Events",
+          "content": "",
+          "url": "https://kennedykwangari.github.io/Data-Interviews-Decoded/Workshops/%20Webinars/%20Events/",
+          "relUrl": "/Workshops/ Webinars/ Events/",
+          "date": ""
+      }
+      
+  
 
   
-      ,"page4": {
+
+  
+      ,"page5": {
           "title": "Interview Guides",
           "content": "",
           "url": "https://kennedykwangari.github.io/Data-Interviews-Decoded/interviewguides/",
@@ -81,7 +92,7 @@
   
 
   
-      ,"page12": {
+      ,"page13": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://kennedykwangari.github.io/Data-Interviews-Decoded/robots.txt",
